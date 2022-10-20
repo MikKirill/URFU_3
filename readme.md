@@ -16,6 +16,7 @@
 
 ## Задание 1
 ### Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity. 1 Создим на сцене плоскость, шар и куб и изменим их цвета
+![image](https://user-images.githubusercontent.com/94719239/197004628-8ac29194-46bf-4438-8e11-829e2b9c61e8.png)
 
 ##2 Добавим сфере скрипт RollerAgent.cs
 ```cs
