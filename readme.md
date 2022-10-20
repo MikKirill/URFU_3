@@ -18,7 +18,7 @@
 ### Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity. 1 Создим на сцене плоскость, шар и куб и изменим их цвета
 ![image](https://user-images.githubusercontent.com/94719239/197004628-8ac29194-46bf-4438-8e11-829e2b9c61e8.png)
 
-##2 Добавим скрипт RollerAgent.cs для сферы
+## 2 Добавим скрипт RollerAgent.cs для сферы
 ```cs
 using System.Collections;
 using System.Collections.Generic;
@@ -85,8 +85,8 @@ public class RollerAgent : Agent
 ![3](https://user-images.githubusercontent.com/94719239/197006806-56c537ba-7ecb-45bd-bdd6-9a6eb2f11a6f.png)
 6. Все работает должным образом
 
-##Задание 2
-###Самостоятельно описать каждую строку файла конфигурации нейронной сети и найти необходимую информацию по компонентам Decision Requester, Behavior Parameters, добавленных сфере.
+## Задание 2
+### Самостоятельно описать каждую строку файла конфигурации нейронной сети и найти необходимую информацию по компонентам Decision Requester, Behavior Parameters, добавленных сфере.
 ```cs
 behaviors:
   RollerBall: # указываем id агента
@@ -117,4 +117,4 @@ Decision Requester - запрашивает решение через регул
 
 Behavior Parameters - определяет принятие объектом решений, в него указывается какой тип поведения будет использоваться: уже обученная модель или удалённый процесс обучения.
 
-##Задание 3
+## Задание 3
