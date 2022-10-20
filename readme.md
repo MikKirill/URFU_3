@@ -209,6 +209,7 @@ public class RollerAgent : Agent
 ```
 3. Создаем и обучаем модели
 4. Получаем корректно обученную и работающую модель
+![4](https://user-images.githubusercontent.com/94719239/197011277-d7422149-59f0-4c72-a939-084dd7207025.png)
 
 
 
